@@ -1,1 +1,1 @@
-echo downloaded & executed
+echo downloaded and executed
